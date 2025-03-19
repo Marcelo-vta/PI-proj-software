@@ -1,4 +1,4 @@
-package br.insper.prova;
+package br.insper.prova.teste;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
