@@ -1,13 +1,13 @@
-package br.insper.prova.teste;
+package br.insper.ferramenta;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class ProvaApplication {
+public class FerramentaApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(ProvaApplication.class, args);
+		SpringApplication.run(FerramentaApplication.class, args);
 	}
 
 }
