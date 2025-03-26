@@ -1,4 +1,4 @@
-package br.insper.ferramenta;
+package br.insper.ferramenta.ferramenta;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;

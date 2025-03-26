@@ -1,8 +1,8 @@
 package br.insper.ferramenta.controller;
 
-import br.insper.ferramenta.Ferramenta;
-import br.insper.ferramenta.FerramentaController;
-import br.insper.ferramenta.FerramentaService;
+import br.insper.ferramenta.ferramenta.Ferramenta;
+import br.insper.ferramenta.ferramenta.FerramentaController;
+import br.insper.ferramenta.ferramenta.FerramentaService;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
