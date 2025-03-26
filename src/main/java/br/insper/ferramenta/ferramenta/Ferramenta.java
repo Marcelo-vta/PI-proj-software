@@ -1,8 +1,5 @@
-package br.insper.ferramenta;
+package br.insper.ferramenta.ferramenta;
 
-
-import lombok.Getter;
-import lombok.Setter;
 
 //id
 //nome (String)
