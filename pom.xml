@@ -87,6 +87,7 @@
 						<id>pre-test</id>
 						<goals>
 							<goal>prepare-agent</goal>
+
 						</goals>
 						<configuration>
 							<propertyName>jacocoArgLine</propertyName>
